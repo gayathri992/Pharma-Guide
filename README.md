@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# PharmaGuide 🎯
 
 
 ## Basic Details
@@ -7,41 +7,48 @@
 
 ### Team Members
 - Member 1: Jewel Leelu Sunil - Mar Baselios Christian College of Engineering and Technology
-- Member 2: Gayathri Suri Varrier - [College]
+- Member 2: Gayathri Suri Varrier - Mar Baselios Christian College of Engineering and Technology
 
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+PharmaGuide is a web application designed to provide users with detailed information about medicines. The application allows users to search for medicines and view comprehensive details such as uses, dosage, warnings, and side effects.
+
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Accessing reliable medicine information is challenging due to scattered and inconsistent data.
+Many platforms lack user-friendly interfaces for specific drug details.
+Complex medical terminology makes understanding labels difficult for most users.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Centralized Data: Say goodbye to endless searches! All essential medicine details are available in one place.
+User-Friendly Interface: Searching for medicine is now as simple as typing a name and clicking a button.
+Dynamic Visuals: A vibrant design and animations make exploring medicine details engaging and enjoyable.
+Simplified Medical Jargon: Information is presented in easy-to-understand language for everyone.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Languages Used: HTML5, CSS3, JavaScript
+Frameworks Used: None
+Libraries Used: None
+Tools Used: Visual Studio Code, Git, Web Browsers for testing
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Standard PC or laptop
+Modern web browser (Chrome, Firefox) and internet connection
+Code editor ( VS Code), API key for FDA APIPharmaGuide solves these
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone <repository-url>
+cd PharmaGuide
 
 # Run
-[commands]
+open index.html
 
 ### Project Documentation
 For Software:
@@ -91,9 +98,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Jewel Leelu Sunil: Frontend design and development, API integration.
+- Gayathri Suri Varrier: Research, testing, and documentation.
+
 
 ---
 Made with ❤️ at TinkerHub
