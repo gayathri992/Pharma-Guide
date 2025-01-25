@@ -54,7 +54,9 @@ open index.html
 For Software:
 
 # Screenshots (Add at least 3)
-![](images/
+![Landing Page](https://github.com/gayathri992/tink-her-hack-3-temp/blob/main/images/1.jpg?raw=true) \
+![Medicine Query](https://github.com/gayathri992/tink-her-hack-3-temp/blob/main/images/2.jpg?raw=true) \
+![Results](https://github.com/gayathri992/tink-her-hack-3-temp/blob/main/images/3.jpg?raw=true)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
