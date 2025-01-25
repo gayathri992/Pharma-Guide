@@ -61,7 +61,7 @@ For Software:
 
 ### Project Demo
 # Video
-[]
+https://drive.google.com/file/d/1jJxq7HqO5dG6_Tiv-n1wX_AdUnBt5RW1/view?usp=sharing
 *Working of PharmaGuide*
 
 ## Team Contributions
