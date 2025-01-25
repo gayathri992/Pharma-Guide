@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Her Hive
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Jewel Leelu Sunil - Mar Baselios Christian College of Engineering and Technology
+- Member 2: Gayathri Suri Varrier - [College]
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
